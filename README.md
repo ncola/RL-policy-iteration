@@ -7,3 +7,6 @@ The task is derived from the Reinforcement Learning Classes course. The full mat
 
 ## Description
 In this task, I implement policy iteration in the context of dynamic programming. The policy iteration algorithm involves iteratively updating state values and improving the policy to find an optimal strategy.
+
+## Instructions 
+To see the example usage of the policy iteration algorithm, open the `policy_iteration.ipynb`.

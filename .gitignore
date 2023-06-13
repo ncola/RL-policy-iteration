@@ -12,3 +12,5 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 *.nbconvert.ipynb
+
+.DS_Store
